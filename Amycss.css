@@ -1,0 +1,40 @@
+body {
+    line-height: 38px;
+}
+.container{overflow:visible;width:1200px}
+.box1{white-space:nowrap;}
+.box1 div{width:338px;display:inline-block;border:0px solid black;vertical-align: top;}
+.box2{white-space:nowrap}
+.box2 div{width:172px;display:inline-block;border:0px solid black} /*создание коробок для расположения текста*/
+.Funiro{
+    font-family: "Poppins", sans-serif;
+    margin-left:100px;
+    font-size: 24px;
+    font-weight: bold;
+    display: inline
+}
+.Afirst__nadnadpic { 
+    font-family: "Poppins", sans-serif;
+    color: #616161;
+    font-weight: bold;
+}
+.Afirst__nadpic {
+    font-family: "Poppins", sans-serif;
+     color: #3A3A3A
+}
+.ASecond__zagalovki {
+    font-family: "Poppins", sans-serif;
+    color: #9F9F9F;
+    word-spacing: 172px
+}
+.ASecond__orgadress {
+    margin-top:10px;
+    font-family: "Poppins", sans-serif;
+    color: #9F9F9F;
+    line-height: 1.5;
+    margin-left:100px;
+}
+.Asecond__nizpodpic {
+    font-family: "Poppins", sans-serif;
+    margin-left:100px;
+}
