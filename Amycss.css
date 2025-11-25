@@ -5,7 +5,8 @@ body {
 .box1{white-space:nowrap;}
 .box1 div{width:338px;display:inline-block;border:0px solid black;vertical-align: top;}
 .box2{white-space:nowrap}
-.box2 div{width:172px;display:inline-block;border:0px solid black} /*создание коробок для расположения текста*/
+.box2 div{width:172px;display:inline-block;border:0px solid black}
+
 .Funiro{
     font-family: "Poppins", sans-serif;
     margin-left:100px;
@@ -37,4 +38,15 @@ body {
 .Asecond__nizpodpic {
     font-family: "Poppins", sans-serif;
     margin-left:100px;
+}
+input {
+  border: none;
+  outline: none;
+  text-decoration: underline;
+}
+button{
+  border: none;
+  outline: none;
+  text-decoration: underline;
+  background-color: white;
 }
